@@ -1,2 +1,1 @@
 # typescript-arkanoid
-typescript-arkanoid
